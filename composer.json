@@ -27,7 +27,10 @@
         "symfony/var-exporter": "^4.4.13",
         "ext-json": "*",
         "ext-curl": "*",
-        "ext-pdo": "*"
+        "ext-pdo": "*",
+        "topthink/think-image": "^1.0",
+        "monolog/monolog": "^1.25",
+        "yansongda/pay": "^2.8"
     },
     "config": {
         "preferred-install": "dist"
